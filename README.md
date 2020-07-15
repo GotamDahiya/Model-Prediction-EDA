@@ -9,13 +9,13 @@ The json file is used for connecting to kaggle and downloading and updating the 
 ## Datasets
 
 ### EDA datasets(link provided)
- * [Covid-19-Dataset]: https:/kaggle.com/imdevskp/corona-virus-report
+ * <a href="https:/kaggle.com/imdevskp/corona-virus-report">Covid-19-Dataset</a>
  
 ### Model Prediction Datasets(link provided)
 
-* [2019 CoronaVirus Dataset](kaggle.com/brendaso/2019-coronavirus-dataset-0122020-01262020)
-* [Covid-19 Corona Virus India Dataset](kaggle.com/imdevskp/covid`9-corona=virus-dataset)
-* [Covid-19 in Italy](kaggle.com/sudalairajkumar/covid19-in-italy)
-* [Data Science for COVID-19(DS4C)](kaggle.com/kimjihoo/coronavirusdataset)
-* [Novel Corona Virus 2019 Dataset](kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
-* [World Population 1960-2018](kaggle.com/imdevskp/world-population-19602018)
+* <a href="kaggle.com/brendaso/2019-coronavirus-dataset-0122020-01262020">2019 CoronaVirus Dataset</a>
+* <a href="kaggle.com/imdevskp/covid19-corona=virus-dataset">2019 CoronaVirus Dataset</a>
+* <a href="2019 CoronaVirus Dataset">Covid-19 in Italy</a>
+* <a href="kaggle.com/kimjihoo/coronavirusdataset">Data Science for COVID-19(DS4C)</a>
+* <a href="kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset">Novel Corona Virus 2019 Dataset</a<
+* <a href="kaggle.com/imdevskp/world-population-19602018">World Population 1960-2018</a>
