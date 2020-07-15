@@ -13,7 +13,7 @@ The json file is used for connecting to kaggle and downloading and updating the 
  
 ### Model Prediction Datasets(link provided)
 
-* [2019 CoronaVvirus Dataset](kaggle.com/brendaso/2019-coronavirus-dataset-0122020-01262020)
+* [2019 CoronaVirus Dataset](kaggle.com/brendaso/2019-coronavirus-dataset-0122020-01262020)
 * [Covid-19 Corona Virus India Dataset](kaggle.com/imdevskp/covid`9-corona=virus-dataset)
 * [Covid-19 in Italy](kaggle.com/sudalairajkumar/covid19-in-italy)
 * [Data Science for COVID-19(DS4C)](kaggle.com/kimjihoo/coronavirusdataset)
