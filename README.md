@@ -9,7 +9,7 @@ The json file is used for connecting to kaggle and downloading and updating the 
 ## Datasets
 
 ### EDA datasets(link provided)
- * [Covid-19-Dataset](https:/kaggle.com/imdevskp/corona-virus-report)
+ * [Covid-19-Dataset]: https:/kaggle.com/imdevskp/corona-virus-report
  
 ### Model Prediction Datasets(link provided)
 
